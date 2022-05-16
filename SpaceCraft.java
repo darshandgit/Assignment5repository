@@ -8,6 +8,8 @@ public class SpaceCraft {
     int time;
 
     int burnRate;
+
+    //new comment
     
     public void init(){
     	altitude = 1000;
